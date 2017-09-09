@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+<<<<<<< HEAD
 ## makeCacheMatrix creates a list containing a function to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
@@ -64,3 +65,17 @@ cacheSolve <- function(x, ...) {
 ##[2,]  0.09943182  0.4723011 -0.15980114 -0.3799716
 ##[3,] -0.03977273  0.3110795  0.06392045 -0.3480114
 ##[4,]  0.10227273 -0.5142045  0.26420455  0.8948864
+=======
+## Write a short comment describing this function
+
+makeCacheMatrix <- function(x = matrix()) {
+
+}
+
+
+## Write a short comment describing this function
+
+cacheSolve <- function(x, ...) {
+        ## Return a matrix that is the inverse of 'x'
+}
+>>>>>>> 7f657dd22ac20d22698c53b23f0057e1a12c09b7
